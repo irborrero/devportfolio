@@ -118,7 +118,7 @@ body {
                 margin: 0 0 15px 0;
             }
 
-            p {
+            p, ul {
                 color: $text;
                 font-size: 0.9em;
                 margin: 0;
@@ -360,8 +360,8 @@ footer {
     position: absolute;
     z-index: 10;
     top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    left: 38.5%;
+    transform: translate(-30%, -50%);
     text-align: center;
 
     h1, h2 {
@@ -527,8 +527,7 @@ footer {
         color: #7e8890;
         margin: 0 0 15px 0;
     }
-
-    p {
+    p, ul {
         color: $text;
         font-size: 0.9em;
         margin: 0;
